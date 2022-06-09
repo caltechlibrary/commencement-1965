@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="The Caltech Archives present: Commencement 50 years ago"
+	backgroundColor="rgba(51,51,51,1)"
+	showOpenButton="false"
+
+>
+  <image imageURL="images/logo Archives FB.jpg"
+	thumbURL="thumbs/logo Archives FB.jpg"
+	linkURL="images/logo Archives FB.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\epiccio\Desktop\logo Archives FB.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commencement_1965 1.jpg"
+	thumbURL="thumbs/Commencement_1965 1.jpg"
+	linkURL="images/Commencement_1965 1.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\Commencement Program\Commencement_1965 1.jpg">
+    <title><![CDATA[1965 Commencement program cover]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Commencement_1965 3.jpg"
+	thumbURL="thumbs/Commencement_1965 3.jpg"
+	linkURL="images/Commencement_1965 3.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\Commencement Program\Commencement_1965 3.jpg">
+    <title><![CDATA[The Commencement program]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_21.jpg"
+	thumbURL="thumbs/1965_commencement_21.jpg"
+	linkURL="images/1965_commencement_21.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_21.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_6.jpg"
+	thumbURL="thumbs/1965_commencement_6.jpg"
+	linkURL="images/1965_commencement_6.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_6.jpg">
+    <title><![CDATA[The audience is gathering in the Beckman Mall]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_12.jpg"
+	thumbURL="thumbs/1965_commencement_12.jpg"
+	linkURL="images/1965_commencement_12.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_22.jpg"
+	thumbURL="thumbs/1965_commencement_22.jpg"
+	linkURL="images/1965_commencement_22.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_22.jpg">
+    <title><![CDATA[Mabel Beckman (on the left), wife of the Chairman of the Board of Trustees, Arnold O. Beckman, with an unidentified woman]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_4.jpg"
+	thumbURL="thumbs/1965_commencement_4.jpg"
+	linkURL="images/1965_commencement_4.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_26.jpg"
+	thumbURL="thumbs/1965_commencement_26.jpg"
+	linkURL="images/1965_commencement_26.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_26.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_11.jpg"
+	thumbURL="thumbs/1965_commencement_11.jpg"
+	linkURL="images/1965_commencement_11.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_25.jpg"
+	thumbURL="thumbs/1965_commencement_25.jpg"
+	linkURL="images/1965_commencement_25.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_25.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_14.jpg"
+	thumbURL="thumbs/1965_commencement_14.jpg"
+	linkURL="images/1965_commencement_14.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_14.jpg">
+    <title><![CDATA[Faculty dressing up in cap and gown in Dabney Garden (Garden of Associates)]]></title>
+    <caption><![CDATA[Astrophysics Professor Jesse Greenstein, in the center with sunglasses. Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_27.jpg"
+	thumbURL="thumbs/1965_commencement_27.jpg"
+	linkURL="images/1965_commencement_27.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_27.jpg">
+    <title><![CDATA[President Lee DuBridge (on the right) chatting with Commencement Speaker Frank Stanton]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_13.jpg"
+	thumbURL="thumbs/1965_commencement_13.jpg"
+	linkURL="images/1965_commencement_13.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_13.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_24.jpg"
+	thumbURL="thumbs/1965_commencement_24.jpg"
+	linkURL="images/1965_commencement_24.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_24.jpg">
+    <title><![CDATA[Dr. Royal Sorenson relaxing in Dabney  Garden while the faculty is robing up]]></title>
+    <caption><![CDATA[He was Professor and Chariman of the Electrical Engineering Department. Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_5.jpg"
+	thumbURL="thumbs/1965_commencement_5.jpg"
+	linkURL="images/1965_commencement_5.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_5.jpg">
+    <title><![CDATA[The Caltech Band performing the prelude and processional]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_3.jpg"
+	thumbURL="thumbs/1965_commencement_3.jpg"
+	linkURL="images/1965_commencement_3.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_20.jpg"
+	thumbURL="thumbs/1965_commencement_20.jpg"
+	linkURL="images/1965_commencement_20.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_20.jpg">
+    <title><![CDATA[The Faculty Procession lead by Chief Marshal David S. Wood, Professor of Material Science]]></title>
+    <caption><![CDATA[Directly behind Wood, Professors Foster Strong (on the left) and Hardy Martel (on the right); in 2nd row Professor  Jesse DuMond (on the right), and in 3rd row (on the left) Professor Ward Whaling. Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_19.jpg"
+	thumbURL="thumbs/1965_commencement_19.jpg"
+	linkURL="images/1965_commencement_19.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_19.jpg">
+    <title><![CDATA[The Commencement speaker, Frank Stanton, marching with the Chairman of the Board of Trustees, Arnold O. Beckman]]></title>
+    <caption><![CDATA[Frank Stanton was at the time the President of CBS and Chairman of the Rand Corporation. Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_1.jpg"
+	thumbURL="thumbs/1965_commencement_1.jpg"
+	linkURL="images/1965_commencement_1.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_1.jpg">
+    <title><![CDATA[Chief Marshal David S. Wood, followed by Assistant Marshals William H. Corcoran (right)  and Rodman W. Paul (left)]]></title>
+    <caption><![CDATA[In the background, center, can be seen the cupola of Throop Hall of Administration. Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_2.jpg"
+	thumbURL="thumbs/1965_commencement_2.jpg"
+	linkURL="images/1965_commencement_2.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_2.jpg">
+    <title><![CDATA[Frank Stanton giving the Commencement address]]></title>
+    <caption><![CDATA[Photo Credit: James McClanahan.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_29.jpg"
+	thumbURL="thumbs/1965_commencement_29.jpg"
+	linkURL="images/1965_commencement_29.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_29.jpg">
+    <title><![CDATA[President Lee DuBridge conferring degrees]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_10.jpg"
+	thumbURL="thumbs/1965_commencement_10.jpg"
+	linkURL="images/1965_commencement_10.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_16.jpg"
+	thumbURL="thumbs/1965_commencement_16.jpg"
+	linkURL="images/1965_commencement_16.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_16.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_8.jpg"
+	thumbURL="thumbs/1965_commencement_8.jpg"
+	linkURL="images/1965_commencement_8.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_17.jpg"
+	thumbURL="thumbs/1965_commencement_17.jpg"
+	linkURL="images/1965_commencement_17.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_17.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_30.jpg"
+	thumbURL="thumbs/1965_commencement_30.jpg"
+	linkURL="images/1965_commencement_30.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_30.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_9.jpg"
+	thumbURL="thumbs/1965_commencement_9.jpg"
+	linkURL="images/1965_commencement_9.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+  <image imageURL="images/1965_commencement_28.jpg"
+	thumbURL="thumbs/1965_commencement_28.jpg"
+	linkURL="images/1965_commencement_28.jpg"
+	linkTarget="_blank"
+	sourcePath="N:\1 Digital Archives\1 HI-RES IMAGES (not cataloged)\Commencement 1965\1965_commencement_28.jpg">
+    <title><![CDATA[It is time to celebrate!]]></title>
+    <caption><![CDATA[Photographer unknown.]]></caption>
+  </image>
+</juiceboxgallery>
